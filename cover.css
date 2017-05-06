@@ -1,0 +1,48 @@
+body {
+  padding-top: 50px;
+  padding-left:10px;
+  padding-right:10px;
+  font-family:'Josefin Sans';
+}
+* {
+font-family:'Josefin Sans';
+}
+.starter-template {
+  text-align: center;
+  background-color: #514f4f;
+  color: white;
+  padding-top: 13%;
+}
+hr {
+  border: 1px solid #952626;
+}
+.navbar-inverse{
+    background-color:black;
+}
+.row1 {
+    border-radius:0px !important;
+    background-size: 100%;
+    background-repeat:no-repeat;
+}
+.row1  h1{
+    font-family:'Josefin Sans';
+}
+
+.row3 {
+    padding:10px;
+    background-size: 100%;
+}
+
+.row5 {
+    padding:10px;
+    background-size: 100%;
+}
+
+.row7 {
+    padding:10px;
+    background-size: 100%;
+}
+.page-header{
+        margin-top: -20px;
+        text-align:center;
+}
